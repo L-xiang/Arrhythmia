@@ -1,4 +1,4 @@
-JNMC
+Arrhythmia
 ====
 
 Arrhythmia data analysis process!
